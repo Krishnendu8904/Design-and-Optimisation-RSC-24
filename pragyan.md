@@ -4,7 +4,7 @@ This project isn't for the faint of heart. It's designed to test your mettle and
 
 Remember the Pragyan Rover launched along side the Chandrayan - 3 Mission?
 
-<img src="" height = "450" width ="450">
+<img src="https://github.com/Krishnendu8904/Design-and-Optimisation-RSC-24/blob/main/Media/pragyan.jpeg?raw=true" height = "450" width ="650">
 
 ## Challenge Brief:
 
@@ -14,13 +14,13 @@ Design and simulate a next-generation lunar rover capable of navigating uneven t
 
 * **Locomotion System:** Design a six-wheeled rover with independent motor control in your simulation software capable of traversing uneven surfaces. (Look up a Rocker-Bogie Mechanism)
 
-<img src="" height = "350" width ="350">
+<img src="https://github.com/Krishnendu8904/Design-and-Optimisation-RSC-24/blob/main/Media/rocker_bogie.png?raw=true" height = "300" width ="350">
 
 * **A 2-Link Manipulator Arm:** Model a simple two-link robotic arm with a gripper end effector. The arm should fold and unfold within the simulated rover body for compactness.
 
 * **Camera Mount:** Simulate a retractable camera mount that extends from the rover body for observation. Model a pan-tilt mechanism for the camera within the simulation to provide a wide range of virtual observation capabilities. Think of ways to protect the camera from dust.
 
-<img src="" height = "350" width ="350">
+<img src="https://github.com/Krishnendu8904/Design-and-Optimisation-RSC-24/blob/main/Media/camera_mount.jpeg?raw=true" height = "350" width ="350">
 
 * **Power Source:** Design a folding mechanism for the solar panels to ensure compactness within the 1.25 cubic meter launch container during simulated launch.
 
